@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png)]
+![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png)
 <h1 align="center">Hi 👋, I'm Sujal Paradkar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
