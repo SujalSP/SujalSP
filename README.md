@@ -1,12 +1,12 @@
 ![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png)
 <h1 align="center">Hi 👋, I'm Sujal Paradkar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast</h3>
 
 <img align="right" alt="code" width="400" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalsp&label=Profile%20views&color=0e75b6&style=flat" alt="sujalsp" /> </p>
 
-- 🌱 I’m currently learning **React.js, mongoDB**
+- 🌱 I’m currently working with **Python, Data**
 
 - 👨‍💻 All of my projects are available at [sujalparadkar1.wixsite.com/ssss](sujalparadkar1.wixsite.com/ssss)
 
